@@ -1,13 +1,4 @@
-/**
- * UseCase6RoomAllocationService.java
- *
- * This class demonstrates reservation confirmation and safe room allocation
- * in the Book My Stay application. It ensures inventory consistency and
- * prevents double-booking by enforcing uniqueness of room IDs.
- *
- * @author YourName
- * @version 6.1
- */
+
 
 import java.util.*;
 
